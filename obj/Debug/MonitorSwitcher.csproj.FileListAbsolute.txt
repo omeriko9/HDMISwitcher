@@ -1,0 +1,14 @@
+C:\Users\Omer\Dropbox\Projects\HDMI Switcher\MonitorSwitcher\bin\Debug\MonitorSwitcher.exe.config
+C:\Users\Omer\Dropbox\Projects\HDMI Switcher\MonitorSwitcher\bin\Debug\MonitorSwitcher.exe
+C:\Users\Omer\Dropbox\Projects\HDMI Switcher\MonitorSwitcher\bin\Debug\MonitorSwitcher.pdb
+C:\Users\Omer\Dropbox\Projects\HDMI Switcher\MonitorSwitcher\bin\Debug\M2Mqtt.Net.dll
+C:\Users\Omer\Dropbox\Projects\HDMI Switcher\MonitorSwitcher\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\Omer\Dropbox\Projects\HDMI Switcher\MonitorSwitcher\obj\Debug\MonitorSwitcher.csproj.AssemblyReference.cache
+C:\Users\Omer\Dropbox\Projects\HDMI Switcher\MonitorSwitcher\obj\Debug\MonitorSwitcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Omer\Dropbox\Projects\HDMI Switcher\MonitorSwitcher\obj\Debug\MonitorSwitcher.Form1.resources
+C:\Users\Omer\Dropbox\Projects\HDMI Switcher\MonitorSwitcher\obj\Debug\MonitorSwitcher.Properties.Resources.resources
+C:\Users\Omer\Dropbox\Projects\HDMI Switcher\MonitorSwitcher\obj\Debug\MonitorSwitcher.csproj.GenerateResource.cache
+C:\Users\Omer\Dropbox\Projects\HDMI Switcher\MonitorSwitcher\obj\Debug\MonitorSwitcher.csproj.CoreCompileInputs.cache
+C:\Users\Omer\Dropbox\Projects\HDMI Switcher\MonitorSwitcher\obj\Debug\MonitorSwitcher.csproj.CopyComplete
+C:\Users\Omer\Dropbox\Projects\HDMI Switcher\MonitorSwitcher\obj\Debug\MonitorSwitcher.exe
+C:\Users\Omer\Dropbox\Projects\HDMI Switcher\MonitorSwitcher\obj\Debug\MonitorSwitcher.pdb
